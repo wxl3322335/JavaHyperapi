@@ -1,0 +1,11 @@
+Category,Order Date,Sales Target,Segment
+Office Supplies,2014-01-03,15,Consumer
+Office Supplies,2014-01-04,300,Home Office
+Office Supplies,2014-01-05,21,Consumer
+Furniture,2014-01-06,2316,Home Office
+Office Supplies,2014-01-06,17,Consumer
+Office Supplies,2014-01-06,14,Corporate
+Office Supplies,2014-01-06,699,Home Office
+Technology,2014-01-06,1068,Home Office
+Furniture,2014-01-07,81,Consumer
+Office Supplies,2014-01-07,11,Consumer
